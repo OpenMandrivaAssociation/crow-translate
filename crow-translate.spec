@@ -2,7 +2,7 @@
 
 Name:		crow-translate
 Version:	3.1.0
-Release:	1
+Release:	2
 Source0:	https://download.kde.org/stable/%{name}/%{version}/%{name}-v%{version}.tar.gz
 Summary:	A simple and lightweight translator
 URL:		https://apps.kde.org/crowtranslate/
