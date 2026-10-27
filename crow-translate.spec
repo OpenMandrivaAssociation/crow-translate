@@ -13,6 +13,7 @@ BuildSystem:	cmake
 BuildRequires:	cmake
 BuildRequires:	extra-cmake-modules
 BuildRequires:	cmake(Qt5)
+BuildRequires:	qmake5
 BuildRequires:	cmake(Qt5Network)
 BuildRequires:	cmake(Qt5Widgets)
 BuildRequires:	cmake(Qt5X11Extras)
